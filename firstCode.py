@@ -5,5 +5,3 @@ print('change from repository')
 
 response = input("Enter your name: ")  # wait for user input
 print(f"Hello {response}")  # greet the user
-
-#this comment is just to test the changes pushing to a branch, not main
